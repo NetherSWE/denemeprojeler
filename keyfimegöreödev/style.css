@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #010831;
+    padding: 0 20px;
+    height: 55px;
+}
+
+.logo {
+    color: yellowgreen;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.menu {
+    display: flex;
+    height: 100%;
+    color: yellowgreen;
+}
+
+.menu a {
+    display: flex;
+    align-items: center;
+    color: yellowgreen;
+    text-decoration: none;
+    padding: 0 18px;
+    transition: 0.2s;
+}
+
+.menu a:hover {
+    background-color: yellow;
+}
+
+.aciklama {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+
+    font-size: 18px;
+    line-height: 1.7;
+    color:darkblue;
+
+    text-align: left;
+    background-color: yellow;
+    border-radius: 12px;
+}
+ .img1 {
+    display: block;
+    width: 500px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.başlık { max-width: 100px auto;
+    margin: 50px auto;
+    padding: 40px auto;
+
+    font-size: 30px;
+    line-height: 3;
+    color: darkblue;
+
+    text-align: center;
+    background-color: yellow;
+    border-radius: 10px;
+
+}
+body {background-color:darkblue
+
+}
+
+.iletisim {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+
+    font-size: 18px;
+    line-height: 1.7;
+    color:darkblue;
+
+    text-align: left;
+    background-color: yellow;
+    border-radius: 12px;
+}
+
+.skill {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+
+    font-size: 18px;
+    line-height: 1.7;
+    color:darkblue;
+
+    text-align: left;
+    background-color: yellow;
+    border-radius: 12px;
+}
+.aboutme {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+
+    font-size: 18px;
+    line-height: 1.7;
+    color:darkblue;
+
+    text-align: left;
+    background-color: yellow;
+    border-radius: 12px;
+}
+.skilltitle { max-width: 100px auto;
+    margin: 50px auto;
+    padding: 40px auto;
+
+    font-size: 30px;
+    line-height: 3;
+    color: darkblue;
+
+    text-align: center;
+    background-color: yellow;
+    border-radius: 10px;
+
+}
+.aboutmetitle { max-width: 100px auto;
+    margin: 50px auto;
+    padding: 40px auto;
+
+    font-size: 30px;
+    line-height: 3;
+    color: darkblue;
+
+    text-align: center;
+    background-color: yellow;
+    border-radius: 10px;
+
+}
+.netherıtltd {
+    display: block;
+    width: 500px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.buton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: yellow;
+    color: darkblue;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 5px;
+}
+
+.buton:hover {
+    background-color: yellowgreen;
+}
+.butonalanı{
+    text-align: center;
+}
